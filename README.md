@@ -1,1 +1,1 @@
-# SQL-project
+# Python-ShoppingCart-project
